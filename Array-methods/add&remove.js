@@ -9,7 +9,7 @@ console.log(array1) // output: [1,2,3,4,6,9]
 // pop removes one element from last
 const array1 = [1, 2, 3];
 array1.pop()
-console,log(array1) //output: [1,2]
+console.log(array1) //output: [1,2]
 
 // unshift add one element froim start
 const array1 = [1, 2, 3];
